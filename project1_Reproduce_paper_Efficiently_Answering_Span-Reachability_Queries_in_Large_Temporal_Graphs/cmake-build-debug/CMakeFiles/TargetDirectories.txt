@@ -1,0 +1,3 @@
+/Users/stevens/Downloads/project_522020910073_孙于翔/cmake-build-debug/CMakeFiles/untitled2.dir
+/Users/stevens/Downloads/project_522020910073_孙于翔/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/stevens/Downloads/project_522020910073_孙于翔/cmake-build-debug/CMakeFiles/rebuild_cache.dir
